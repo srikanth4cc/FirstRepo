@@ -1,0 +1,31 @@
+drwxr-xr-x 3 raghvendra raghvendra 4096 Oct 30 19:45 masai
+drwxr-xr-x 3 raghvendra raghvendra 4096 Oct 30 19:45 masai
+drwxr-xr-x 4 raghvendra raghvendra 4096 Oct 30 18:57 pjtOne
+drwxr-xr-x 4 raghvendra raghvendra 4096 Oct 30 18:57 pjtOne
+drwxr-xr-x 4 raghvendra raghvendra 4096 Oct 30 22:01 repos
+drwxr-xr-x 4 raghvendra raghvendra 4096 Oct 30 22:01 repos
+drwxr-xr-x 5 raghvendra raghvendra 4096 Jun  7 05:42 course
+drwxr-xr-x 5 raghvendra raghvendra 4096 Jun  7 05:42 course
+-rw-r--r-- 1 raghvendra raghvendra    0 Nov  1 16:26 ls-output1.txt
+-rw-r--r-- 1 raghvendra raghvendra    0 Oct 30 18:38 f3
+-rw-r--r-- 1 raghvendra raghvendra    0 Oct 30 18:38 f3
+-rw-r--r-- 1 raghvendra raghvendra   10 Oct 30 19:03 f1
+-rw-r--r-- 1 raghvendra raghvendra   10 Oct 30 19:03 f1
+-rw-r--r-- 1 raghvendra raghvendra   14 Oct 30 19:03 f2
+-rw-r--r-- 1 raghvendra raghvendra   14 Oct 30 19:03 f2
+-rw-r--r-- 1 raghvendra raghvendra  280 Nov  1 16:24 ls-output.txt
+-rw-r--r-- 1 raghvendra raghvendra   38 Oct 30 18:34 firstFile.txt
+-rw-r--r-- 1 raghvendra raghvendra   38 Oct 30 18:34 firstFile.txt
+-rw-r--r-- 1 raghvendra raghvendra   54 Oct 30 19:27 README.md
+-rw-r--r-- 1 raghvendra raghvendra   54 Oct 30 19:27 README.md
+-rw-r--r-- 1 raghvendra raghvendra 55 Oct 30 19:45 profile.md
+-rw-r--r-- 1 raghvendra raghvendra 55 Oct 30 19:45 profile.md
+-rw-r--r-- 1 raghvendra raghvendra 55 Oct 30 19:45 profile.md
+-rw-r--r-- 1 raghvendra raghvendra 55 Oct 30 19:45 profile.md
+-rw-r--r-- 1 raghvendra raghvendra  892 Nov  1 16:25 ls-output.txt
+total 36
+total 36
+total 4
+total 4
+total 4
+total 4
